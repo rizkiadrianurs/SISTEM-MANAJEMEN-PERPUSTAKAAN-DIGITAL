@@ -171,6 +171,7 @@ Dan yang terakhir jika memilih 6. Keluar, maka akan log out dari akun dan kembal
 
 
 # Flowchart
+1.Flowchart menu awal untuk login dan registrasi
 <img width="482" height="782" alt="Picture1" src="https://github.com/user-attachments/assets/8f63198e-c342-4bcf-9372-19a2698b80f4" /> 
 <img width="529" height="577" alt="Picture2" src="https://github.com/user-attachments/assets/a0ea33ae-7900-4cda-b68e-360718065513" />
 <img width="529" height="774" alt="Picture3" src="https://github.com/user-attachments/assets/ac541f99-3cdc-4664-8f13-b2d91af210b0" />
